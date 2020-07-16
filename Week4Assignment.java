@@ -1,3 +1,4 @@
+// Code reviewed by @professorgordon
 /* Nick Nussenzveig CSIS-1400 */
 import java.util.Scanner;
 public class Week4Assignment {
